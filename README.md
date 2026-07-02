@@ -20,7 +20,7 @@ Der Delktop-Client ist nur mit einem gültigen Accound der Planungssoftware "hcc
 
 - **Python 3.12+**
 - **PySide6** - GUI Framework
-- **Pony ORM** - Datenbankzugriff
+- **SQL-Model** - Datenbankzugriff
 - **OR-Tools** - Optimierungsalgorithmen
 - **Google APIs** - Kalenderintegration
 - **Pandas** - Datenverarbeitung
